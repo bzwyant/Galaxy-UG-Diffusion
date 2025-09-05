@@ -1,0 +1,6 @@
+numpy
+torch
+torchvision
+pyiqa
+ninja
+galaxy-datasets
